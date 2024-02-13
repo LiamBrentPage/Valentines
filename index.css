@@ -17,10 +17,10 @@ body{
 }
 h1 {
     text-shadow: 2px 2px #ff0000;
-    font-size:120px
+    font-size:60px
   }
 img{
-    width:120px;
+    width:60px;
     border-radius:50%;
     animation: shake 0.5s;
     animation-iteration-count: infinite;
