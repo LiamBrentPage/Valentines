@@ -1,0 +1,25 @@
+@import url('https://fonts.cdnfonts.com/css/sweet-romance');
+
+             
+html {
+    background-image: url('valentine.png');
+    
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: 150%;
+    font-family: 'Sweet Romance', sans-serif;
+    text-align:center;
+    
+}
+
+body{
+    margin-top:150px;
+}
+h1 {
+    text-shadow: 2px 2px #ff0000;
+    font-size:100px
+  }
+img{
+    width:100px;
+    border-radius:50%;
+}
